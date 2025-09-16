@@ -22,10 +22,7 @@
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-1" value="Rules" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lDBZ0l9pd_VaCK-WYBcX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-2" target="lDBZ0l9pd_VaCK-WYBcX-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lDBZ0l9pd_VaCK-WYBcX-2" value="30 Days Periods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lDBZ0l9pd_VaCK-WYBcX-2" value="1 Day Periods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-4" value="180 Days Periods" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -36,11 +33,11 @@
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-6" target="lDBZ0l9pd_VaCK-WYBcX-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="460" as="targetPoint" />
+            <mxPoint x="570" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-6" value="Remittance Related Rules" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-8" target="lDBZ0l9pd_VaCK-WYBcX-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,43 +49,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-8" value="Individual Customers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-10" value="Corporate Customers" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-14" target="eW4HyMKRd0BIFCM0ZmoF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-14" value="To/From Very High Risk Country" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-16" target="eW4HyMKRd0BIFCM0ZmoF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-16" value="To/From Low Risk Country" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDBZ0l9pd_VaCK-WYBcX-18" target="eW4HyMKRd0BIFCM0ZmoF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lDBZ0l9pd_VaCK-WYBcX-18" value="To/From High Risk Country" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-1" value="Cluster" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="-40" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-3" value="Cluster" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-5" value="Cluster" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-7" value="90 Days Periods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-9" value="7 Days" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-9" value="7 Days Periods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-11" target="lDBZ0l9pd_VaCK-WYBcX-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-11" value="30 Days Periods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
