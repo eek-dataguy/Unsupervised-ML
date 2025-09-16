@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.2">
   <diagram name="Page-1" id="VF4vOsGLRFuED72hkF1M">
-    <mxGraphModel dx="2245" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,86 @@
         </mxCell>
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-22" value="13 Rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-28" target="eW4HyMKRd0BIFCM0ZmoF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-28" target="eW4HyMKRd0BIFCM0ZmoF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-28" target="eW4HyMKRd0BIFCM0ZmoF-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-28" target="eW4HyMKRd0BIFCM0ZmoF-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-28" target="eW4HyMKRd0BIFCM0ZmoF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-28" value="Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-29" value="1 Day Periods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-30" value="180 Days Periods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1987" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-34" target="eW4HyMKRd0BIFCM0ZmoF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-34" target="eW4HyMKRd0BIFCM0ZmoF-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-34" target="eW4HyMKRd0BIFCM0ZmoF-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-34" value="Remittance Related Rules" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-38" target="eW4HyMKRd0BIFCM0ZmoF-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-38" value="Individual Customers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-39" value="Corporate Customers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-49" value="90 Days Periods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-50" value="7 Days Periods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eW4HyMKRd0BIFCM0ZmoF-52" target="eW4HyMKRd0BIFCM0ZmoF-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-52" value="30 Days Periods" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-53" value="Banks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-54" value="12 Customers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-55" value="3,739 Customers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-56" value="2038 Customers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-57" value="Alert Periods: 2025-05-01 to 2025-07-31" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="40" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-58" value="13 Rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-59" value="Cluster" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
