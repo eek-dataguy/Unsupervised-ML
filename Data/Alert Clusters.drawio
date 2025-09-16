@@ -121,6 +121,9 @@
         <mxCell id="eW4HyMKRd0BIFCM0ZmoF-21" value="Alert Periods: 2025-05-01 to 2025-07-31" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eW4HyMKRd0BIFCM0ZmoF-22" value="13 Rules" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
